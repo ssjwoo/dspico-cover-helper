@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Nintendo ROMs, packages, metadata, and keys
+*.nds
+*.srl
+*.app
+*.cia
+*.3ds
+*.tik
+*.tmd
+*.bin
+titleKey*
+titlePass*
+
+# Archives that may contain game data
+*.zip
+*.7z
+*.rar
+
+# Generated/downloaded artwork
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Common local SD-card layouts
+games/
+roms/
+covers/
+_pico/
+
+# Local logs and temporary output
+*.log
+*.tmp
+staging/
+
